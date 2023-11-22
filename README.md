@@ -1,6 +1,7 @@
-# This is a landing page for the [The Maze Project](https://github.com/elyse502/The-Maze-Project). View via ➡️ [Link](https://elyse502.github.io/The-Maze-Project-Page/)
+# The Maze Project 🎮
+**_This is a landing page for the [The Maze Project](https://github.com/elyse502/The-Maze-Project). View via ➡️ [Link](https://elyse502.github.io/The-Maze-Project-Page/)_**
 
-# Author✍️:
+## Author✍️:
 1. _[NIYIBIZI Elysée](https://linktr.ee/niyibizi_elysee) | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse)._
 
 <p align="center">
