@@ -1,7 +1,7 @@
 # The Maze Project 🎮
 * **_This is a landing page for the [The Maze Project](https://github.com/elyse502/The-Maze-Project). View via ➡️ [Link](https://elyse502.github.io/The-Maze-Project-Page/)_**
 
-## Support🎉
+## Support 🎉
 If you like how I present and document my work do me a favor of giving a Star ✨ to my [Repos](https://github.com/elyse502?tab=repositories) |&&| a [Follow](https://github.com/elyse502) 👥
 
 ## Author✍️:
