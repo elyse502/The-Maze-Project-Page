@@ -4,7 +4,7 @@
 ## Support 🎉
 If you like how I present and document my work do me a favor of giving a Star ✨ to my [Repos](https://github.com/elyse502?tab=repositories) |&&| a [Follow](https://github.com/elyse502) 👥
 
-## Author✍️:
+## Author ✍️:
 1. _[NIYIBIZI Elysée](https://linktr.ee/niyibizi_elysee) | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse)._
 
 <p align="center">
